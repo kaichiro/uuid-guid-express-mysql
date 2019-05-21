@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "mysql2": "^1.6.5",
+    "uuid": "^3.3.2"
+  },
+  "name": "gerando-uuid.guid",
+  "version": "1.0.0",
+  "description": "Prova de conceito para trabalhar com UUID no MySQL",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Express",
+    "MySQL2",
+    "UUID",
+    "GUID",
+    "SQL"
+  ],
+  "author": "Kaichiro Fukuda",
+  "license": "ISC"
+}
